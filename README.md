@@ -27,7 +27,7 @@ This project provides tools for encoding and decoding hidden messages in images 
    ```sh
    pip install -r requirements.txt
    ```
-   *(Create a `requirements.txt` if you haven't already.)*
+
 
 3. **Usage:**
    - Run any of the scripts directly with Python:
