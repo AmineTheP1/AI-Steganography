@@ -2,6 +2,15 @@
 
 This project provides tools for encoding and decoding hidden messages in images using both traditional LSB (Least Significant Bit) and AI-based steganography techniques.
 
+
+https://github.com/user-attachments/assets/1a5388a2-4ca5-46f3-ba5f-001cb35e3944
+
+
+
+https://github.com/user-attachments/assets/2e5f26fb-f751-4fb8-b3f6-3d14b4d496a0
+
+
+
 ## Features
 
 - **LSB Encoder/Decoder:** Hide and extract messages using the least significant bit method.
